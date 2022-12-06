@@ -29,8 +29,8 @@ Apply new unknown values
 ~~~
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: Rajesh S
-RegisterNumber:  212221220042
+Developed by: Udayanithi N
+RegisterNumber:  212221220056
 */
 
 import pandas as pd
